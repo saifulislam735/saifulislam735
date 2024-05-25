@@ -16,6 +16,11 @@ Skills: NodeJS / REACT / JS / HTML / CSS
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/saifulislam735)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/saiful-islam-a1a352232?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/)  
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=saifulislam735&&style=flat-square)  
+
+<br/>  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=saifulislam735)](https://github.com/ryo-ma/github-profile-trophy)
 
