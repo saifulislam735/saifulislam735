@@ -8,7 +8,7 @@ I'm a passionate Frontend Developer with a strong foundation in the MERN stack. 
 
 
 
-Skills: NodeJS / REACT / JS / HTML / CSS
+Skills: [![My Skills](https://skillicons.dev/icons?i=nodejs,react,js,html,css,bootstrap,tailwind)](https://skillicons.dev)
 
 - 🔭 I’m currently working on Backend 
 - 💬 Ask me about web development 
