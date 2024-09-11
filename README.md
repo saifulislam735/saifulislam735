@@ -37,7 +37,6 @@
 ---
 
 ### 📊 GitHub Stats:
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saifulislam735&show_icons=true&count_private=true" alt="GitHub stats" />
   <br/>
@@ -50,15 +49,7 @@
 
 ---
 
-### 🏆 Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saifulislam735" alt="GitHub Trophies" />
-</p>
-
----
-
 ### 🔝 Most Used Languages:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifulislam735" alt="Top Languages" />
 </p>
-
