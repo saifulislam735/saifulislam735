@@ -1,36 +1,64 @@
-![Web developer](https://scontent.fdac146-1.fna.fbcdn.net/v/t39.30808-1/379930188_1478329786335386_2368471819784118199_n.jpg?stp=c0.0.200.200a_cp6_dst-jpg_p200x200&_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEKOjFaZ5oC-HfJza9U2L_LjN-YT6dvGmmM35hPp28aaXHQek2qivNCqVI1cn7APWBWPjQpQVuWBmx2Mq10kWW5&_nc_ohc=BDGkR1isx5cQ7kNvgFVr1Oi&_nc_ht=scontent.fdac146-1.fna&oh=00_AYB7as70E4Z1_wNlpeBCYov5lubbIaRG1hOlNPhypLP5LQ&oe=665826DB)
+<!-- Graphical Image of Developer Coding -->
+<p align="center">
+  <img src="https://scontent.fdac146-1.fna.fbcdn.net/v/t39.30808-1/379930188_1478329786335386_2368471819784118199_n.jpg?stp=c0.0.200.200a_cp6_dst-jpg_p200x200&_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEKOjFaZ5oC-HfJza9U2L_LjN-YT6dvGmmM35hPp28aaXHQek2qivNCqVI1cn7APWBWPjQpQVuWBmx2Mq10kWW5&_nc_ohc=BDGkR1isx5cQ7kNvgFVr1Oi&_nc_ht=scontent.fdac146-1.fna&oh=00_AYB7as70E4Z1_wNlpeBCYov5lubbIaRG1hOlNPhypLP5LQ&oe=665826DB" alt="Web Developer Coding" width="200">
+</p>
 
-### Hi there 👋, I'm Saiful
-#### Web developer
+<h1 align="center">Hi there 👋, I'm Saiful</h1>
+<h3 align="center">A passionate Web Developer</h3>
 
+<p align="center">
+  I'm a Frontend Developer with expertise in the MERN stack. Currently, I'm pursuing Electronics and Telecommunication Engineering at Rajshahi University of Engineering & Technology (RUET).
+</p>
 
-I'm a passionate Frontend Developer with a strong foundation in the MERN stack. Currently, I'm studying Electronics and Telecommunication Engineering (ETE) at Rajshahi University of Engineering & Technology (RUET).
+---
 
+### 🛠️ Skills:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,react,js,html,css,bootstrap,tailwind" alt="Skills" />
+  </a>
+</p>
 
+---
 
-#### Skills:
+### 🚀 What I’m working on:
+- 🔭 Backend development
+- 💬 Ask me about **Web Development**
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/saiful-islam-a1a352232)
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react,js,html,css,bootstrap,tailwind)](https://skillicons.dev)
+---
 
-- 🔭 I’m currently working on Backend 
-- 💬 Ask me about web development 
-- 📫 How to reach me: https://www.linkedin.com/in/saiful-islam-a1a352232?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
+### 📱 Connect with me:
+<p align="center">
+  <a href="https://github.com/saifulislam735"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/saiful-islam-a1a352232/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>
+</p>
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/saifulislam735)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/saiful-islam-a1a352232/)  
-<br/>  
+### 📊 GitHub Stats:
 
-![Profile views counter](https://komarev.com/ghpvc/?username=saifulislam735&&style=flat-square)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saifulislam735&show_icons=true&count_private=true" alt="GitHub stats" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=saifulislam735" alt="GitHub Streak" />
+</p>
 
-<br/>  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saifulislam735&&style=flat-square" alt="Profile views counter" />
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=saifulislam735)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saifulislam735)](https://github.com/anuraghazra/github-readme-stats)
+### 🏆 Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saifulislam735" alt="GitHub Trophies" />
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=saifulislam735&show_icons=true&count_private=true)  
+---
 
-![GitHub metrics](https://metrics.lecoq.io/saifulislam735)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=saifulislam735)  
+### 🔝 Most Used Languages:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifulislam735" alt="Top Languages" />
+</p>
 
