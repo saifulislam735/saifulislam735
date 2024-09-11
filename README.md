@@ -37,11 +37,6 @@
 ---
 
 ### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saifulislam735&show_icons=true&count_private=true" alt="GitHub stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=saifulislam735" alt="GitHub Streak" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saifulislam735&&style=flat-square" alt="Profile views counter" />
