@@ -39,7 +39,8 @@ I'm a **Junior to Intermediate React Developer** with a strong focus on web tech
 ![Shihab's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
 ### GitHub Streak:
-![Shihab's GitHub Streak](https://streak-stats.demolab.com?user=your-github-username&theme=radical)
+### 🔥 GitHub Streak:
+  <img src="https://streak-stats.demolab.com/?user=saifulislam735&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 
 ---
 ### 🔝 Most Used Languages:
