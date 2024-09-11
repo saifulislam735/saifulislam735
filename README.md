@@ -42,7 +42,7 @@ I'm a **Junior to Intermediate React Developer** with a strong focus on web tech
 
 ---
 ### 🔝 Most Used Languages:
-<p align="center">
+<p align="">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifulislam735&layout=compact&theme=radical" alt="Top Languages" style="border-radius: 10px; box-shadow: 0px 4px 15px rgba(0,0,0,0.3);" />
 </p>
 
