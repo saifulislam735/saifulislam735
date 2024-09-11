@@ -1,53 +1,134 @@
-<!-- Graphical Image of Developer Coding -->
-<p align="center">
-  <img src="https://scontent.fdac146-1.fna.fbcdn.net/v/t39.30808-1/379930188_1478329786335386_2368471819784118199_n.jpg?stp=c0.0.200.200a_cp6_dst-jpg_p200x200&_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEKOjFaZ5oC-HfJza9U2L_LjN-YT6dvGmmM35hPp28aaXHQek2qivNCqVI1cn7APWBWPjQpQVuWBmx2Mq10kWW5&_nc_ohc=BDGkR1isx5cQ7kNvgFVr1Oi&_nc_ht=scontent.fdac146-1.fna&oh=00_AYB7as70E4Z1_wNlpeBCYov5lubbIaRG1hOlNPhypLP5LQ&oe=665826DB" alt="Web Developer Coding" width="200">
-</p>
+<div align="center">
+  <img src="https://your-image-url.jpg" alt="Web Developer at work" width="200px"/>
+</div>
 
-<h1 align="center">Hi there 👋, I'm Saiful</h1>
-<h3 align="center">A passionate Web Developer</h3>
-
-<p align="center">
-  I'm a Frontend Developer with expertise in the MERN stack. Currently, I'm pursuing Electronics and Telecommunication Engineering at Rajshahi University of Engineering & Technology (RUET).
-</p>
+# Hi there, I'm Shihab 👋  
+[![LinkedIn Badge](https://img.shields.io/badge/-Connect%20with%20me-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourprofile/)](https://www.linkedin.com/in/yourprofile/)
+[![Gmail Badge](https://img.shields.io/badge/-mohimshihab735@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohimshihab735@gmail.com)](mailto:mohimshihab735@gmail.com)
 
 ---
 
-### 🛠️ Skills:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,react,js,html,css,bootstrap,tailwind" alt="Skills" />
-  </a>
-</p>
+### About Me:
+I'm a **Junior to Intermediate React Developer** with a strong focus on web technologies and the **MERN stack**. I'm passionate about creating dynamic and responsive web applications.
+
+- 🔭 **Current Focus:**
+  - MERN stack development (React, Node, Express, MongoDB).
+  - Firebase authentication and user management.
+  - 3D graphics using **React Three Fiber**.
+
+- 🌱 **Currently Learning:**
+  - Advanced React features like hooks and state management.
+  - Serverless functions and cloud integration with **Vercel**.
+
+- 💼 **Freelance Projects:**
+  - Working with international teams on a variety of web development tasks.
+
+### Skills:
+[![My Skills](https://skillicons.dev/icons?i=react,js,nodejs,express,mongodb,bootstrap,tailwind,html,css)](https://skillicons.dev)
 
 ---
 
-### 🚀 What I’m working on:
-- 🔭 Backend development
-- 💬 Ask me about **Web Development**
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/saiful-islam-a1a352232)
+### 📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/yourprofile/)
+- [Gmail](mailto:mohimshihab735@gmail.com)
 
 ---
 
-### 📱 Connect with me:
-<p align="center">
-  <a href="https://github.com/saifulislam735"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30" width="30" /></a>
-  <a href="https://www.linkedin.com/in/saiful-islam-a1a352232/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>
-</p>
+### GitHub Stats:
+![Shihab's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+
+### GitHub Streak:
+![Shihab's GitHub Streak](https://streak-stats.demolab.com?user=your-github-username&theme=radical)
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=saifulislam735" alt="GitHub Streak" />
-</p>
+### Background and Cursor Animation
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saifulislam735&&style=flat-square" alt="Profile views counter" />
-</p>
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Background Animation</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="curser"></div>
+        <div class="row">
+            <!-- Add your hexagons here as needed -->
+            <div class="hexagon"></div>
+            <div class="hexagon"></div>
+            <div class="hexagon"></div>
+            <!-- More hexagons -->
+        </div>
+    </div>
+</body>
+</html>
 
----
+<style>
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    --v1: calc(max(9vw, 11vh));
+}
+body{
+    background: #1D0027;
+    overflow: hidden;
+    min-height: 200vh;
+}
+.container{
+    position: fixed;
+    height: 100vh;
+    overflow: hidden;
+}
+.row{
+    display: inline-flex;
+    margin-top: calc(var(--v1) * -0.32);
+    margin-left: calc(var(--v1) * -0.5);
+}
+button.hexagon{
+    border: none;
+    cursor: pointer;
+}
 
-### 🔝 Most Used Languages:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifulislam735" alt="Top Languages" />
-</p>
+.hexagon{
+    position: relative;
+    width: var(--v1);
+    height: calc(var(--v1) * 1.1);
+    margin: calc(var(--v1) * 0.04) calc(var(--v1) * 0.02);
+    clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+    background: linear-gradient(90deg, rgba(25, 25, 25, 0.7) 50%, rgba(10,10,10,0.85) 50%);
+    background: #2C093A;
+    text-align: center;
+    color: rgba(15, 15, 15, 1);
+    line-height: calc(var(--v1) * 1.1);
+    font-size: 2vw;
+    transition: 1s;
+}
+.curser{
+    position: absolute;
+    width: calc(var(--v1) * 2.5);
+    height: calc(var(--v1) * 2.5);
+    border-radius: 50%;
+    animation: anim 2s linear infinite;
+    visibility: hidden;
+    transform: translate(-50%, -50%);
+}
+@keyframes anim{
+    0%{
+        filter: hue-rotate(0deg);
+    }
+    100%{
+        filter: hue-rotate(360deg);
+    }
+}
+body:hover .curser{
+    background: radial-gradient(circle, rgba(0,255,0,1) 0%, rgba(0,255,0,0) 70%);
+    visibility: visible;
+}
+</style>
