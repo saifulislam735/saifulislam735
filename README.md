@@ -37,6 +37,9 @@
 ---
 
 ### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=saifulislam735" alt="GitHub Streak" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saifulislam735&&style=flat-square" alt="Profile views counter" />
