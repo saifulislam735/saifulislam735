@@ -14,7 +14,7 @@ I'm a **Junior to Intermediate React Developer** with a strong focus on web tech
 - 🔭 **Current Focus:**
   - MERN stack development (React, Node, Express, MongoDB).
   - Firebase authentication and user management.
-  - 3D graphics using **React Three Fiber**.
+  - 3D graphics using ** ThreeJS, Framer Motion**.
 
 - 🌱 **Currently Learning:**
   - Advanced React features like hooks and state management.
