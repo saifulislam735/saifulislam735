@@ -1,4 +1,4 @@
-![Top Image](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
+[![Top Image](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
 
 # Hi there, I'm Shihab 👋  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saiful-islam-a1a352232/)](https://www.linkedin.com/in/saiful-islam-a1a352232/)
@@ -18,21 +18,23 @@ I'm a **Junior to Intermediate React Developer** passionate about building dynam
 - 🌱 **Learning**:  
   - Advanced React hooks and state management.  
   - Serverless architecture with **Vercel**.  
+  - **Python** for scripting and automation.  
 
 - 💼 **Experience**:  
   - Freelancing on web development projects for international clients.  
+  - Applied **C++** for object-oriented programming concepts.  
 
 ---
 
 ### Skills  
-[![My Skills](https://skillicons.dev/icons?i=react,js,nodejs,express,mongodb,bootstrap,tailwind,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,nodejs,express,mongodb,bootstrap,tailwind,html,css,python,cpp)](https://skillicons.dev)
 
 ---
 
 ### Featured Projects  
-- **[Project Name 1](link-to-repo)**: A MERN stack app with real-time features.  
-- **[Project Name 2](link-to-repo)**: A 3D portfolio using ThreeJS and React.  
-_(Feel free to add your own projects here!)_  
+- **[Web Premium Solution](https://github.com/saifulislam735/Web_Premium_Solution)**: A service-based website built with **Next.js**, featuring fast performance and SEO optimization.  
+- **[White Castle Restaurant](https://github.com/saifulislam735/White-Castle-Restaurant-)**: A full-stack **MERN** application for a restaurant, with user-friendly features and a robust backend.  
+- **[Saiful Portfolio](https://github.com/saifulislam735/Saiful_Portfolio)**: A personal portfolio showcasing 3D visuals using **ThreeJS** and modern React techniques.  
 
 ---
 
@@ -54,4 +56,4 @@ _(Feel free to add your own projects here!)_
 ---
 
 ### Let’s Collaborate!  
-Got an exciting project or idea? Feel free to reach out—I’d love to chat!  
+Got an exciting project or idea? Feel free to reach out—I’d love to chat!  ](https://link.springer.com/chapter/10.1007/978-981-97-9037-1_26)
